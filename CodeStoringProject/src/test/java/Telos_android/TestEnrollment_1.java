@@ -10,7 +10,7 @@ public class TestEnrollment_1 {
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.gotomeeting.com/");
 		 
-		 System.out.println();
+		 System.out.println("This one is test2 ");
 	}
 	}
 
