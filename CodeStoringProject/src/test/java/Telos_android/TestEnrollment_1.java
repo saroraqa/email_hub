@@ -11,6 +11,8 @@ public class TestEnrollment_1 {
 		driver.get("https://www.gotomeeting.com/");
 		 
 		 System.out.println("This one is test2 ");
+		// this one is now ready to pull if any change
+		
 	}
 	}
 
